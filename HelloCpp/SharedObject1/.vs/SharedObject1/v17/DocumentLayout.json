@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\furka\\source\\repos\\SharedObject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D8769D-F1BE-4C26-965C-B0176E5B7F0F}|SharedObject1.vcxproj|C:\\Users\\furka\\source\\repos\\SharedObject1\\SharedObject1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8D8769D-F1BE-4C26-965C-B0176E5B7F0F}|SharedObject1.vcxproj|solutionrelative:SharedObject1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D8769D-F1BE-4C26-965C-B0176E5B7F0F}|SharedObject1.vcxproj|C:\\PROGRAM FILES (X86)\\ANDROID\\ANDROIDNDK\\ANDROID-NDK-R23C\\TOOLCHAINS\\LLVM\\PREBUILT\\WINDOWS-X86_64\\SYSROOT\\USR\\INCLUDE\\ANDROID\\LOG.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D8769D-F1BE-4C26-965C-B0176E5B7F0F}|SharedObject1.vcxproj|C:\\Users\\furka\\source\\repos\\SharedObject1\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8D8769D-F1BE-4C26-965C-B0176E5B7F0F}|SharedObject1.vcxproj|solutionrelative:pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SharedObject1.cpp",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\SharedObject1\\SharedObject1.cpp",
+              "RelativeDocumentMoniker": "SharedObject1.cpp",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\SharedObject1\\SharedObject1.cpp",
+              "RelativeToolTip": "SharedObject1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-09T03:40:00.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "log.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Android\\AndroidNDK\\android-ndk-r23c\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\include\\android\\log.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Android\\AndroidNDK\\android-ndk-r23c\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\include\\android\\log.h",
+              "ToolTip": "C:\\Program Files (x86)\\Android\\AndroidNDK\\android-ndk-r23c\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\include\\android\\log.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Android\\AndroidNDK\\android-ndk-r23c\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\include\\android\\log.h",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-09T03:39:48.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\SharedObject1\\pch.h",
+              "RelativeDocumentMoniker": "pch.h",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\SharedObject1\\pch.h",
+              "RelativeToolTip": "pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-09T03:39:40.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

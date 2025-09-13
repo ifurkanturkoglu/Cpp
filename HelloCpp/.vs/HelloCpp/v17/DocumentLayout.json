@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\furka\\source\\repos\\HelloCpp\\",
+  "WorkspaceRootPath": "C:\\Users\\furka\\source\\repos\\Cpp\\HelloCpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D20E4B5E-2FF6-4AB1-8629-EAC6F8F10AD3}|..\\TryCatch\\TryCatch.vcxproj|C:\\Users\\furka\\source\\repos\\TryCatch\\TryCatch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F5699FCF-E3B5-4E2C-B8C7-B10D3F414D38}|HelloCpp.vcxproj|C:\\Users\\furka\\source\\repos\\Cpp\\HelloCpp\\Hello.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5699FCF-E3B5-4E2C-B8C7-B10D3F414D38}|HelloCpp.vcxproj|solutionrelative:Hello.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E0736C6-2E56-44EE-B761-30FC9B00611D}|..\\Overloading\\Overloading.vcxproj|C:\\Users\\furka\\source\\repos\\Overloading\\Overloading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\furka\\source\\repos\\TryCatch\\TryCatch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DD7C0C2-373C-436B-B104-682C336DEFE1}|..\\Pointer\\Pointer.vcxproj|C:\\Users\\furka\\source\\repos\\Pointer\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\furka\\source\\repos\\Overloading\\Overloading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D43FAA4-FE99-4982-963B-FF0A30CE0715}|..\\DynamicBellekY\u00F6netimi\\DynamicBellekY\u00F6netimi.vcxproj|C:\\Users\\furka\\source\\repos\\DynamicBellekY\u00F6netimi\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\furka\\source\\repos\\Pointer\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\furka\\source\\repos\\DynamicBellekY\u00F6netimi\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,48 +31,59 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TryCatch.cpp",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\TryCatch\\TryCatch.cpp",
-              "RelativeDocumentMoniker": "..\\TryCatch\\TryCatch.cpp",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\TryCatch\\TryCatch.cpp",
-              "RelativeToolTip": "..\\TryCatch\\TryCatch.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Title": "Hello.cpp",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\Cpp\\HelloCpp\\Hello.cpp",
+              "RelativeDocumentMoniker": "Hello.cpp",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\Cpp\\HelloCpp\\Hello.cpp",
+              "RelativeToolTip": "Hello.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-08T16:10:55.853Z",
+              "WhenOpened": "2025-09-13T14:54:48.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TryCatch.cpp",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\TryCatch\\TryCatch.cpp",
+              "RelativeDocumentMoniker": "..\\..\\TryCatch\\TryCatch.cpp",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\TryCatch\\TryCatch.cpp",
+              "RelativeToolTip": "..\\..\\TryCatch\\TryCatch.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-08T16:10:55.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Overloading.cpp",
               "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\Overloading\\Overloading.cpp",
-              "RelativeDocumentMoniker": "..\\Overloading\\Overloading.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Overloading\\Overloading.cpp",
               "ToolTip": "C:\\Users\\furka\\source\\repos\\Overloading\\Overloading.cpp",
-              "RelativeToolTip": "..\\Overloading\\Overloading.cpp",
+              "RelativeToolTip": "..\\..\\Overloading\\Overloading.cpp",
               "ViewState": "AgIAACUAAAAAAAAAAAAAwEIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-25T17:51:03.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\Pointer\\Main.cpp",
-              "RelativeDocumentMoniker": "..\\Pointer\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Pointer\\Main.cpp",
               "ToolTip": "C:\\Users\\furka\\source\\repos\\Pointer\\Main.cpp",
-              "RelativeToolTip": "..\\Pointer\\Main.cpp",
+              "RelativeToolTip": "..\\..\\Pointer\\Main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-22T16:11:00.049Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\DynamicBellekY\u00F6netimi\\Main.cpp",
-              "RelativeDocumentMoniker": "..\\DynamicBellekY\u00F6netimi\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\DynamicBellekY\u00F6netimi\\Main.cpp",
               "ToolTip": "C:\\Users\\furka\\source\\repos\\DynamicBellekY\u00F6netimi\\Main.cpp",
-              "RelativeToolTip": "..\\DynamicBellekY\u00F6netimi\\Main.cpp",
+              "RelativeToolTip": "..\\..\\DynamicBellekY\u00F6netimi\\Main.cpp",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-28T16:05:20.489Z"
